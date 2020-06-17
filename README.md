@@ -7,6 +7,6 @@ Basic commands
 5. git push - Push to remote 
 6. git pull - Pull latest from remote repo
 7. git clone - Clone remote repo locally
-8. git branch <branch name> - Create a new branch
-9. git  checkout <branch name> Switching to branch
+8. git branch <branch _name_1> - Create a new branch
+9. git  checkout <branch_name_1> Switching to branch
 10. git rm --cached file_name  - to remove the file
