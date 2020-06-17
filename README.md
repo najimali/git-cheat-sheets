@@ -1,5 +1,5 @@
-#Git Ceat Sheet for beginners
-Basic command
+# Git Cheat Sheet for beginners
+Basic commands
 1. init - initialize the local git repo
 2. git add<file> - add files to staging area
 3. git status - check status of working tree
