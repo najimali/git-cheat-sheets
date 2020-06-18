@@ -24,6 +24,8 @@ eg - git add *.html - it will add all the html files
 eg - git add . - it will all the files in the directory 
 Note - git add . is most common way of adding files.
 
+Checking status 
+command - git status 
 Commit in git
 1. git commit - then a window will pop then add your msg
 2. git commit -m  "Add your message here" (Note - use double quotes when terminal is cmd & single quotes when git bash is used)
