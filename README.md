@@ -112,7 +112,7 @@ merge them using  - git  merge branch_1
 
 
 # Delete the last commit 
-git log
-git reset --hard commit_id
-git reset HEAD^ --hard
-git push origin -f
+- git log
+- git reset --hard commit_id
+- git reset HEAD^ --hard
+- git push origin -f
