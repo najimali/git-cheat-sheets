@@ -122,4 +122,4 @@ merge them using  - git  merge branch_1
 - git push origin -f
 
 
-#More - [click here](https://scotch.io/bar-talk/git-cheat-sheet)
+### More - [click here](https://scotch.io/bar-talk/git-cheat-sheet)
