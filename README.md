@@ -26,6 +26,10 @@
 - git remote add origin your__repo__link
 - git push -u origin master
 
+# Push an existing repository from the command line
+- git remote add origin repo_link
+- git branch -M master
+- git push -u origin master
 # Different method to create files 
 1. By file_name 
 eg git add index.html - it will add the index.html file only
