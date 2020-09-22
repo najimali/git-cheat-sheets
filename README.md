@@ -17,6 +17,15 @@
 2. Gitbash - [Download](https://git-scm.com/downloads)
 3. Github accounts [Signup](https://github.com/join)
 
+# Create a new repository on the command line
+- echo "# Your-App-Name" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M master
+- git remote add origin your__repo__link
+- git push -u origin master
+
 # Different method to create files 
 1. By file_name 
 eg git add index.html - it will add the index.html file only
@@ -33,9 +42,9 @@ Commit in git
 2. git commit -m  "Add your message here" (Note - use double quotes when the terminal is cmd & single quotes when git bash is used)
 
 # Clear the terminal - 
-For window
+1. For window
 command - cls
-For git bash
+2. For git bash
 command - clear 
 
 
